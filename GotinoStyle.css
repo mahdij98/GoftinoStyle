@@ -1,3 +1,7 @@
 #box-chat .box-header{
     background: red !important;
 }
+#box-chat{
+    position: absolute !important;
+    left: 0 !important;
+}
